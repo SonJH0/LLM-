@@ -160,7 +160,7 @@ v2 :
 보시다 시피 성공적으로 검증했습니다.
 
 
-
+### 보너스 2 – 멀티모달 확장(업무 결과의 시각화)
 
 <img width="1536" height="1024" alt="fa213dc8-9eb0-4f17-aac8-8466dd8df652" src="https://github.com/user-attachments/assets/290e1004-cdf9-49c6-8789-9e203c27af8b" />
 
