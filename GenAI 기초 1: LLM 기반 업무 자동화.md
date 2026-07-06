@@ -155,3 +155,9 @@ v2 :
 <img width="864" height="394" alt="스크린샷 2026-07-06 121655" src="https://github.com/user-attachments/assets/e76598ee-cf63-4f88-b456-96c598cc5bdc" />
 
 보시다 시피 성공적으로 검증했습니다.
+
+
+
+
+<img width="1536" height="1024" alt="fa213dc8-9eb0-4f17-aac8-8466dd8df652" src="https://github.com/user-attachments/assets/290e1004-cdf9-49c6-8789-9e203c27af8b" />
+
