@@ -66,11 +66,12 @@ Gemini 3 Flash, Claude Haiku 4.5, GPT-5.4 mini를 이들의 상위 모델인 Gem
 
 ## 시스템 설계 문서
 
+아무런 지시 없이 그냥 회의록만 올리고 정리를 부탁했을 때 이런 식으로 답변이 왔습니다. (v1)
+
+
 
 <img width="940" height="1005" alt="스크린샷 2026-07-06 113341" src="https://github.com/user-attachments/assets/253c9994-4785-4148-a78e-e97e08e78f88" />
 <img width="938" height="1006" alt="스크린샷 2026-07-06 113355" src="https://github.com/user-attachments/assets/3205b24b-6e67-4dd6-8d8c-3757aa3adeb2" />
-
-아무런 지시 없이 그냥 회의록만 올리고 정리를 부탁했을 때 이런 식으로 답변이 왔습니다. (v1)
 
 이후
 
