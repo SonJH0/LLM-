@@ -95,7 +95,10 @@ https://github.com/user-attachments/assets/400e97ac-5da1-4576-8f8f-17a4e205fb2d
 
 
 
-https://github.com/user-attachments/assets/07a5c68f-2804-4de1-9158-28fd6a4775d9
+
+https://github.com/user-attachments/assets/cc150f0d-0cb1-4355-821b-fea5c18813a3
+
+
 
 
 # 만드는데 사용한 자료
