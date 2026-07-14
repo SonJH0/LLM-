@@ -98,9 +98,6 @@ https://github.com/user-attachments/assets/07a5c68f-2804-4de1-9158-28fd6a4775d9
 
 ## TTS
 
-[공기.mp3](https://github.com/user-attachments/files/29769686/default.mp3)
-[하루가.mp3](https://github.com/user-attachments/files/29769685/default.mp3)
-[작은 한모금.mp3](https://github.com/user-attachments/files/29769684/default.mp3)
 [아우라.mp3](https://github.com/user-attachments/files/29769683/default.mp3)
 
 ## 영상
