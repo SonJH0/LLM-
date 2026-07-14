@@ -77,14 +77,18 @@ A premium slim sparkling water can standing on a reflective surface, silver and 
 
 # 편집
 
-<img width="1317" height="938" alt="스크린샷 2026-07-07 093940" src="https://github.com/user-attachments/assets/2d86e1b6-c0a1-4571-bdfe-9fb2e814bc05" />
+<img width="1900" height="1011" alt="스크린샷 2026-07-15 083632" src="https://github.com/user-attachments/assets/3dac5d04-bc25-4603-998d-75663880b57c" />
+
 
 
 # 결과물
 
 
 
-https://github.com/user-attachments/assets/ec5f6363-d7b4-4bdf-a29c-3665123f2022
+
+https://github.com/user-attachments/assets/400e97ac-5da1-4576-8f8f-17a4e205fb2d
+
+
 
 
 # 보너스 3
