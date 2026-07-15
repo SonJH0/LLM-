@@ -14,7 +14,7 @@ Sora2, Capcut, OpenAI TTS-1
 
 # 2. 스토리보드
 
-## Scene 1. 흐린 회색빛 도심
+## Scene 1. 흐린 회색빛 도심 (0~2)
 
 흐린 회색 도시 거리, 비내리는 거리를 창문에서 보는 풍경, 흐린 초점, 차분하고 감성적인 분위기, 사실적인 조명, 사람 등장하지 않음.
 
@@ -25,7 +25,7 @@ From 0 to 2 seconds, show a gray morning city street seen through a rain-covered
 <img width="1198" height="676" alt="스크린샷 2026-07-08 072902" src="https://github.com/user-attachments/assets/8719aeec-36a6-49a6-9871-7dd57c3e0ddf" />
 
 
-## Scene 2. 탄산과 라임과 레몬
+## Scene 2. 탄산과 라임과 레몬 (2~4)
 
 탄산수 속으로 레몬과 라임 슬라이스가 튀어 들어가는 장면의 극단적인 클로즈업. 기포가 위로 올라오고, 액체는 수정처럼 맑고 투명하다. 슬로 모션으로 표현되며, 고급 음료 광고 스타일의 연출과 밝고 신선한 조명을 사용한다. 화면 비율은 16:9이다.
 
@@ -36,7 +36,7 @@ Extreme close-up of lemon and lime slices splashing into sparkling water, bubble
 <img width="1195" height="673" alt="스크린샷 2026-07-08 072916" src="https://github.com/user-attachments/assets/448518d2-124d-4e3c-b5af-9135df42c38a" />
 
 
-## Scene 3. 밝아지는 도시
+## Scene 3. 밝아지는 도시 (4~6)
 
 칙칙한 회색 도시 거리가 밝고 상쾌한 아침 풍경으로 변화하는 장면. 햇빛이 유리 건물에 반사되고, 깨끗한 블루와 라임 컬러 팔레트를 사용한다. 프리미엄 음료 광고 같은 상쾌한 분위기이며, 부드럽고 영화 같은 화면 전환을 연출한다. 화면 비율은 16:9이다.
 
@@ -48,7 +48,7 @@ A dull gray city street transforming into a bright fresh morning scene, sunlight
 
 
 
-## Scene 4. 제품 등장
+## Scene 4. 제품 등장 (6~8)
 
 반사되는 표면 위에 세워진 프리미엄 슬림 탄산수 캔. 실버와 라임 그린 컬러의 디자인이며, 캔 표면에는 물방울이 맺혀 있다. 레몬과 라임을 포인트 요소로 배치했고, 깔끔한 스튜디오 조명을 사용한다. 고급 음료 광고 스타일로, 피사체를 화면 중앙에 배치한 구도이며, 화면 비율은 16:9
 
