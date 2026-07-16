@@ -4,7 +4,7 @@
 Sora2, Capcut, OpenAI TTS-1
 
 ## 광고 제품
-탄산 음료
+탄산 음료.
 
 ## 선택 이유
 
