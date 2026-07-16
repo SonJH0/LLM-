@@ -18,7 +18,7 @@ Sora2, Capcut, OpenAI TTS-1
 
 흐린 회색 도시 거리, 비내리는 거리를 창문에서 보는 풍경, 흐린 초점, 차분하고 감성적인 분위기, 사실적인 조명, 사람 등장하지 않음.
 
-# 하루가 답답하게 느껴질 때
++ 하루가 답답하게 느껴질 때
 
 ```text
 From 0 to 2 seconds, show a gray morning city street seen through a rain-covered window. The image is soft-focused and moody, with raindrops on the glass, muted colors, realistic natural lighting, and no people.
@@ -31,7 +31,7 @@ From 0 to 2 seconds, show a gray morning city street seen through a rain-covered
 
 탄산수 속으로 레몬과 라임 슬라이스가 튀어 들어가는 장면의 극단적인 클로즈업. 기포가 위로 올라오고, 액체는 수정처럼 맑고 투명하다. 슬로 모션으로 표현되며, 고급 음료 광고 스타일의 연출과 밝고 신선한 조명을 사용한다. 화면 비율은 16:9이다.
 
-# 작은 한모금이
++ 작은 한모금이
 
 ```text
 Extreme close-up of lemon and lime slices splashing into sparkling water, bubbles rising, crystal clear liquid, slow motion, high-end beverage commercial, bright fresh lighting, 16:9
@@ -44,7 +44,7 @@ Extreme close-up of lemon and lime slices splashing into sparkling water, bubble
 
 칙칙한 회색 도시 거리가 밝고 상쾌한 아침 풍경으로 변화하는 장면. 햇빛이 유리 건물에 반사되고, 깨끗한 블루와 라임 컬러 팔레트를 사용한다. 프리미엄 음료 광고 같은 상쾌한 분위기이며, 부드럽고 영화 같은 화면 전환을 연출한다. 화면 비율은 16:9이다.
 
-# 공기를 바꿉니다.
++ 공기를 바꿉니다.
 
 ```text
 A dull gray city street transforming into a bright fresh morning scene, sunlight reflecting on glass buildings, clean blue and lime color palette, premium refreshing commercial, smooth cinematic transition, 16:9
