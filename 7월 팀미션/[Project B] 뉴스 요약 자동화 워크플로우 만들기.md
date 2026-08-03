@@ -32,7 +32,8 @@ Make를 활용하여 뉴스 수집, 중복 검사, AI 요약 생성, Notion 저�
 
 ### 시나리오 구조
 
-<img width="2005" height="994" alt="스크린샷 2026-08-03 171708" src="https://github.com/user-attachments/assets/5b23e64e-6a0b-4f04-99e3-9a373f967af7" />
+<img width="1911" height="991" alt="image" src="https://github.com/user-attachments/assets/b6633736-1eec-4748-bef3-4c788e3da08b" />
+
 
 
 ---
@@ -145,12 +146,13 @@ RSS에서 수집한 뉴스가 Gemini를 통해 요약된 뒤,
 <img width="813" height="975" alt="스크린샷 2026-08-03 173850" src="https://github.com/user-attachments/assets/de5ff7b3-a84c-4c77-86a4-febeb53a4fda" />
 
 ### 실행 결과
-<img width="2097" height="896" alt="image" src="https://github.com/user-attachments/assets/c020cd61-12f8-4377-abef-4800da84182a" />
+<img width="2005" height="1000" alt="스크린샷 2026-08-03 180101" src="https://github.com/user-attachments/assets/40a64946-52cc-4b0a-8d2a-ff2c31daeedd" />
+
 
 
 ### Notion 저장 결과
-<img width="1781" height="676" alt="image" src="https://github.com/user-attachments/assets/dc212e7d-0bcc-4e4d-8bcc-25677a57b9ad" />
-<img width="1769" height="1058" alt="image" src="https://github.com/user-attachments/assets/ed3178fa-183d-4425-b352-6aa107bd9acc" />
+<img width="1868" height="1129" alt="스크린샷 2026-08-03 180236" src="https://github.com/user-attachments/assets/04fbfd63-a9dd-4aac-88e9-c84bbbc69f2f" />
+
 
 
 
