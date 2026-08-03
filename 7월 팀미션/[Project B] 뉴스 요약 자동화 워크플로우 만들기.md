@@ -28,7 +28,7 @@ Make를 활용하여 뉴스 수집, 중복 검사, AI 요약 생성, Notion 저�
 2. Notion 데이터베이스에서 동일한 원문 링크가 이미 존재하는지 검색
 3. 중복이 아니면 Gemini API를 호출하여 기사 요약 생성
 4. 제목, 요약, 원문 링크, 발행일을 Notion에 저장
-5. 오류 발생 시 Retry 정책에 따라 재시도
+5. 오류 발생 시 Retry에 따라 재시도
 
 ### 시나리오 구조
 
@@ -85,14 +85,13 @@ Gemini API를 활용하여 수집한 뉴스 기사 내용을 자동으로 요약
 - **재시도 간격: 5분**
 
 ### 기대 효과
-- 일시적인 API 실패 시 자동 복구 가능
 - 실행 중단 시 원인 추적 가능
 - 자동화 안정성 향상
 
 ---
 
-## 8. 키워드 선정 이유
-본 프로젝트는 AI/기술 관련 뉴스 요약 자동화를 목표로 하였으며,  
+## 8. 키워드
+본 프로젝트는 AI 기술 관련 뉴스 요약 자동화를 목표로 하였으며,  
 빠르게 변화하는 기술 트렌드를 효율적으로 파악하기 위해 관련 뉴스 키워드를 중심으로 구성했습니다.
 
 ### 선정 이유
@@ -122,8 +121,8 @@ Gemini API를 활용하여 수집한 뉴스 기사 내용을 자동으로 요약
 - [x] Notion 데이터베이스 연동 성공
 - [x] Gemini 요약 생성 성공
 - [x] 중복 기사 필터링 적용
-- [x] URL 필드 매핑 정상 동작
-- [x] 최종 파이프라인 테스트 성공
+- [x] URL 매핑 정상 동작
+- [x] 최종 테스트 성공
 
 ### 최종 결과
 RSS에서 수집한 뉴스가 Gemini를 통해 요약된 뒤,  
@@ -135,7 +134,7 @@ RSS에서 수집한 뉴스가 Gemini를 통해 요약된 뒤,
 
 
 ### Make 시나리오
-<img width="2005" height="994" alt="스크린샷 2026-08-03 171708" src="https://github.com/user-attachments/assets/f199c490-fdd8-4b78-a763-79ba9c7c0eb5" />
+<img width="1911" height="991" alt="스크린샷 2026-08-03 175701" src="https://github.com/user-attachments/assets/3afccb4a-effe-4d3a-827a-a702e946921e" />
 <img width="808" height="944" alt="스크린샷 2026-08-03 173700" src="https://github.com/user-attachments/assets/9a282447-40b9-428c-80c1-06251e52081f" />
 <img width="796" height="852" alt="스크린샷 2026-08-03 173710" src="https://github.com/user-attachments/assets/f1c2a3ad-9519-4765-93a7-c89224cb49f4" />
 <img width="788" height="330" alt="스크린샷 2026-08-03 173730" src="https://github.com/user-attachments/assets/496f50d5-3609-4349-a80c-209a4c04d585" />
