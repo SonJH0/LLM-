@@ -140,8 +140,8 @@ RSS에서 수집한 뉴스가 Gemini를 통해 요약된 뒤,
 <img width="788" height="330" alt="스크린샷 2026-08-03 173730" src="https://github.com/user-attachments/assets/496f50d5-3609-4349-a80c-209a4c04d585" />
 <img width="808" height="545" alt="스크린샷 2026-08-03 173738" src="https://github.com/user-attachments/assets/9330c9fb-7d55-44ef-a7ec-d0cf445eee0e" />
 <img width="800" height="629" alt="스크린샷 2026-08-03 173816" src="https://github.com/user-attachments/assets/5281bb0a-0361-446d-9c67-6d4826cf7517" />
-<img width="809" height="508" alt="스크린샷 2026-08-03 173839" src="https://github.com/user-attachments/assets/acefd3cb-6764-406c-994e-86ae7d5b0041" />
-<img width="764" height="235" alt="스크린샷 2026-08-03 173843" src="https://github.com/user-attachments/assets/0a71fa0e-40c7-4b88-b017-59ae0811a1c7" />
+<img width="811" height="1094" alt="스크린샷 2026-08-03 181844" src="https://github.com/user-attachments/assets/c86845f6-517f-4a3d-8bf5-1c18e8a9d2e1" />
+<img width="807" height="1100" alt="스크린샷 2026-08-03 181852" src="https://github.com/user-attachments/assets/78693f8e-dc1f-4fc0-8fe6-96d9389843ee" />
 <img width="813" height="975" alt="스크린샷 2026-08-03 173850" src="https://github.com/user-attachments/assets/de5ff7b3-a84c-4c77-86a4-febeb53a4fda" />
 
 ### 실행 결과
