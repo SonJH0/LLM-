@@ -24,7 +24,7 @@ Make를 활용하여 뉴스 수집, 중복 검사, AI 요약 생성, Notion 저�
 ## 4. 자동화 흐름
 전체 시나리오는 다음과 같은 순서로 동작합니다.
 
-1. 매일 오전 9시 RSS에서 뉴스 기사 수집
+1. 매일 오후 6시 RSS에서 뉴스 기사 수집
 2. Notion 데이터베이스에서 동일한 원문 링크가 이미 존재하는지 검색
 3. 중복이 아니면 Gemini API를 호출하여 기사 요약 생성
 4. 제목, 요약, 원문 링크, 발행일을 Notion에 저장
@@ -69,7 +69,6 @@ Gemini API를 활용하여 수집한 뉴스 기사 내용을 자동으로 요약
 - [x] Gemini 응답 결과를 Notion의 `요약` 속성에 저장
 - [x] 실행 기록에서 요약 생성 결과 확인 완료
 
-즉, 본 프로젝트에는 **요약 호출 기능이 실제로 적용**되어 있습니다.
 
 ### 6-4. Notion 자동 저장
 중복이 아닌 기사에 대해서만 제목, 요약, 원문링크, 발행일이 Notion 데이터베이스에 자동 저장되도록 구현했습니다.
@@ -151,6 +150,8 @@ RSS에서 수집한 뉴스가 Gemini를 통해 요약된 뒤,
 
 ### Notion 저장 결과
 <img width="1781" height="676" alt="image" src="https://github.com/user-attachments/assets/dc212e7d-0bcc-4e4d-8bcc-25677a57b9ad" />
+<img width="1769" height="1058" alt="image" src="https://github.com/user-attachments/assets/ed3178fa-183d-4425-b352-6aa107bd9acc" />
+
 
 
 ---
