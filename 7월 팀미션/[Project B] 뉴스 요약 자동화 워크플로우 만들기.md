@@ -150,7 +150,8 @@ RSS에서 수집한 뉴스가 Gemini를 통해 요약된 뒤,
 
 
 ### Notion 저장 결과
-<img width="1868" height="1129" alt="스크린샷 2026-08-03 180236" src="https://github.com/user-attachments/assets/04fbfd63-a9dd-4aac-88e9-c84bbbc69f2f" />
+<img width="2510" height="1144" alt="image" src="https://github.com/user-attachments/assets/7e87ff75-175a-4681-9a7f-0feace5dee30" />
+
 
 
 
