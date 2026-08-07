@@ -396,6 +396,8 @@ git config user.email
 
 
 <img width="925" height="314" alt="스크린샷 2026-08-07 111024" src="https://github.com/user-attachments/assets/43e41d63-bc67-4f05-bc8a-29c5d91c73e5" />
+<img width="467" height="386" alt="스크린샷 2026-08-07 113129" src="https://github.com/user-attachments/assets/d5ee9635-336c-440a-b277-2a9c3c816fd6" />
+
 
 
 
@@ -462,6 +464,3 @@ git log --oneline --graph --all
 | 수정/삭제 기능 | 충족 |
 | 조회수 기능 | 충족 |
 
-
-
-추천은 기존 `README.md`가 간단하다면, 위 내용을 `README.md`에 넣어도 되고, 더 깔끔하게 하려면 `REPORT.md` 파일을 새로 만들어 붙여넣어도 됩니다.
