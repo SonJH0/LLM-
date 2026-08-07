@@ -394,9 +394,18 @@ git config user.email
 ### 16.2 프로그램 실행 결과 스크린샷
 
 
+<img width="350" height="396" alt="스크린샷 2026-08-07 113454" src="https://github.com/user-attachments/assets/70a5775a-3507-41ad-ae9d-e2dc7285dcd5" />
+<img width="455" height="385" alt="스크린샷 2026-08-07 113510" src="https://github.com/user-attachments/assets/9da678f6-99e0-46f1-beb6-07e47cad6eaa" />
+<img width="454" height="378" alt="스크린샷 2026-08-07 113538" src="https://github.com/user-attachments/assets/dc429afd-b01c-42ec-8033-5bdc921273b8" />
+<img width="362" height="370" alt="스크린샷 2026-08-07 113558" src="https://github.com/user-attachments/assets/65143998-f8d5-4406-b90b-3282e34bbeb1" />
+<img width="380" height="556" alt="스크린샷 2026-08-07 113620" src="https://github.com/user-attachments/assets/1ca0b505-4448-424a-a630-c0290088306f" />
+<img width="319" height="405" alt="스크린샷 2026-08-07 113637" src="https://github.com/user-attachments/assets/68a27b95-7269-4e61-8ce8-4a74d1fca337" />
+<img width="454" height="342" alt="스크린샷 2026-08-07 113649" src="https://github.com/user-attachments/assets/77bc0ce9-59f2-45c3-98b0-127ea1891e9c" />
+<img width="378" height="400" alt="스크린샷 2026-08-07 113703" src="https://github.com/user-attachments/assets/496bf170-671c-4035-aa0c-45673695a187" />
+<img width="342" height="403" alt="스크린샷 2026-08-07 113714" src="https://github.com/user-attachments/assets/3e964a51-c281-4cd6-8b64-a734579f1707" />
+<img width="450" height="390" alt="스크린샷 2026-08-07 113729" src="https://github.com/user-attachments/assets/808af817-6300-407a-8fd7-d6d78701ad47" />
 
-<img width="925" height="314" alt="스크린샷 2026-08-07 111024" src="https://github.com/user-attachments/assets/43e41d63-bc67-4f05-bc8a-29c5d91c73e5" />
-<img width="467" height="386" alt="스크린샷 2026-08-07 113129" src="https://github.com/user-attachments/assets/d5ee9635-336c-440a-b277-2a9c3c816fd6" />
+
 
 
 
@@ -444,7 +453,6 @@ git log --oneline --graph --all
 | VSCode 사용 | 충족 |
 | Git 설치 및 설정 | 충족 |
 | GitHub 저장소 생성 | 충족 |
-| 로컬 Git 저장소 초기화 | 충족 |
 | 원격 저장소 연결 | 충족 |
 | GitHub push | 충족 |
 | README.md 작성 | 충족 |
@@ -457,10 +465,7 @@ git log --oneline --graph --all
 | 프롬프트 상세 보기 | 충족 |
 | 즐겨찾기 추가/해제 | 충족 |
 | 즐겨찾기 목록 보기 | 충족 |
-| 함수 분리 | 충족 |
 | 커밋 10개 이상 | 충족 |
-| 브랜치 생성 및 병합 | 충족 |
-| JSON 저장/불러오기 | 충족 |
 | 수정/삭제 기능 | 충족 |
 | 조회수 기능 | 충족 |
 
